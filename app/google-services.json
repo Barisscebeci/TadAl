@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "974986241885",
+    "project_id": "tadal-b2833",
+    "storage_bucket": "tadal-b2833.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974986241885:android:cf8b1e72c13770a21eeab4",
+        "android_client_info": {
+          "package_name": "com.barisscebeci.tadal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKWFGgtBQRSph2ZtgLdFJcYPrGcUWaMII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
