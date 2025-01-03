@@ -60,31 +60,45 @@ Kullanıcıların yemek ve içecek siparişlerini kolayca verebilmelerini sağla
 
 ### Kullanıcı Tarafı Ekranları
 
-1. **Ürün Detay Ekranı**  
-   Ürünlerin detaylı bilgilerini, fiyatını ve kullanıcı değerlendirmelerini gösterir. Kullanıcı, ürün miktarını artırıp azaltabilir ve ürünü sepete ekleyebilir.
+1. **Kayıt Ol Ekranı**  
+   Yeni kullanıcıların hesap oluşturabildiği form ekranı.
 
-2. **Anasayfa**  
+   ![register](https://github.com/user-attachments/assets/cb098736-99f1-49fb-875a-9c5c384dbbfb)
+
+2. **Giriş Yap Ekranı**  
+   Kayıtlı kullanıcıların uygulamaya giriş yapabileceği ekran.
+
+   ![Login](https://github.com/user-attachments/assets/7fed2eea-8186-4a6c-a634-ab84845393fe)
+
+3. **Anasayfa**  
    Tüm ürünlerin listelendiği, ürünlerin hızlıca sepete eklenebildiği ekran.
 
-3. **Sepet Ekranı**  
-   Kullanıcıların sepetlerindeki ürünleri yönetebilmesini sağlar. Sepet toplamını ve ürün detaylarını gösterir.
+   ![HomeScreen](https://github.com/user-attachments/assets/c2f759c2-bb3e-469a-9c63-7e0442afc526)
+   
+4. **Ürün Detay Ekranı**  
+   -Ürünlerin detaylı bilgilerini, fiyatını ve kullanıcı değerlendirmelerini gösterir. Kullanıcı, ürün miktarını artırıp azaltabilir ve ürünü sepete ekleyebilir.
 
-4. **Kayıt Ol Ekranı**  
-   Yeni kullanıcıların hesap oluşturabildiği form ekranı.
+   ![UrunDetayScreen](https://github.com/user-attachments/assets/414c72a8-0bf5-40a3-a3f7-3bde4cfa65ad)
 
 5. **Favorilerim Ekranı**  
    Kullanıcıların beğendiği ürünleri favorilere ekleyebildiği ve yönetebildiği ekran.
 
-6. **Giriş Yap Ekranı**  
-   Kayıtlı kullanıcıların uygulamaya giriş yapabileceği ekran.
+   ![UrunFavoriScreen](https://github.com/user-attachments/assets/a7b1155b-7a2f-443f-880f-cd63d9dc7b99)
 
-7. **Arama Ekranı**  
+6. **Arama Ekranı**  
    Ürünler arasında isim veya kategoriye göre arama yapılabilmesini sağlar.
+
+   ![UrunAramaScreen](https://github.com/user-attachments/assets/e415f395-0abc-44b0-9e0e-b4869cfe3197)
+
+7. **Sepet Ekranı**  
+   Kullanıcıların sepetlerindeki ürünleri yönetebilmesini sağlar. Sepet toplamını ve ürün detaylarını gösterir.
+
+   ![UrunSepetScreen](https://github.com/user-attachments/assets/99d7208a-db57-4dc5-a9d8-02a7517b83af)
 
 8. **Profil Ekranı**  
    Kullanıcıların profil bilgilerini görüntüleyip düzenleyebildiği ekran.
 
-
+   ![ProfileScreen](https://github.com/user-attachments/assets/df2b58e0-fc0a-47f3-8af4-cf50a73f0a6f)
 
 ---
 
